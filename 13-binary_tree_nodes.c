@@ -1,21 +1,30 @@
-size_t binary_tree_nodes(const binary_tree_t *tree) {
-  if (tree == NULL) {
-    return 0; // Base case: empty tree
-  }
+#include "binary_trees.h"
+/**
+ * binary_tree_nodes - function that returns # of nodes in a tree with children
+ * @tree: tree to check
+ * Return: number of nodes with children
+ */
 
-  size_t nodes = 0; // Initialize counter for nodes with children
+size_t binary_tree_nodes(const binary_tree_t *tree)
+{
 
-  // Check left child
-  if (tree->left) {
-    nodes++; // Node has at least one child
-    nodes += binary_tree_nodes(tree->left); // Recursively count in left subtree
-  }
+if (tree == NULL)
+{
+return (0);
+}
 
-  // Check right child
-  if (tree->right) {
-    nodes++; // Node has at least one child
-    nodes += binary_tree_nodes(tree->right); // Recursively count in right subtree
-  }
+size_t nodes = 0;
+if (tree->left)
+{
+nodes++;
+nodes += binary_tree_nodes(tree->left);
+}
 
-  return nodes;
+if (tree->right)
+{
+nodes++;
+nodes += binary_tree_nodes(tree->right);
+}
+
+return (nodes);
 }
