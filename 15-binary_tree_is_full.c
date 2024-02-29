@@ -1,4 +1,4 @@
-#include "binary_tree.h"
+#include "binary_trees.h"
 /**
  * binary_tree_is_full - function that says if a tree is full or not
  * a tree is full if it has tow or none children
