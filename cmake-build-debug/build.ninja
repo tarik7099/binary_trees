@@ -55,8 +55,6 @@ build CMakeFiles/binary_trees.dir/0-binary_tree_node.c.o: C_COMPILER__binary_tre
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/1-binary_tree_insert_left.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/1-binary_tree_insert_left.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/1-binary_tree_insert_left.c.o.d
@@ -64,8 +62,6 @@ build CMakeFiles/binary_trees.dir/1-binary_tree_insert_left.c.o: C_COMPILER__bin
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/10-binary_tree_depth.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/10-binary_tree_depth.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/10-binary_tree_depth.c.o.d
@@ -73,8 +69,6 @@ build CMakeFiles/binary_trees.dir/10-binary_tree_depth.c.o: C_COMPILER__binary_t
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/11-binary_tree_size.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/11-binary_tree_size.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/11-binary_tree_size.c.o.d
@@ -82,8 +76,6 @@ build CMakeFiles/binary_trees.dir/11-binary_tree_size.c.o: C_COMPILER__binary_tr
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/13-binary_tree_nodes.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/13-binary_tree_nodes.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/13-binary_tree_nodes.c.o.d
@@ -91,8 +83,6 @@ build CMakeFiles/binary_trees.dir/13-binary_tree_nodes.c.o: C_COMPILER__binary_t
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/15-binary_tree_is_full.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/15-binary_tree_is_full.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/15-binary_tree_is_full.c.o.d
@@ -100,8 +90,6 @@ build CMakeFiles/binary_trees.dir/15-binary_tree_is_full.c.o: C_COMPILER__binary
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/17-binary_tree_sibling.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/17-binary_tree_sibling.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/17-binary_tree_sibling.c.o.d
@@ -109,8 +97,6 @@ build CMakeFiles/binary_trees.dir/17-binary_tree_sibling.c.o: C_COMPILER__binary
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/2-binary_tree_insert_right.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/2-binary_tree_insert_right.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/2-binary_tree_insert_right.c.o.d
@@ -118,8 +104,6 @@ build CMakeFiles/binary_trees.dir/2-binary_tree_insert_right.c.o: C_COMPILER__bi
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/3-binary_tree_delete.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/3-binary_tree_delete.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/3-binary_tree_delete.c.o.d
@@ -127,8 +111,6 @@ build CMakeFiles/binary_trees.dir/3-binary_tree_delete.c.o: C_COMPILER__binary_t
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/4-binary_tree_is_leaf.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/4-binary_tree_is_leaf.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/4-binary_tree_is_leaf.c.o.d
@@ -136,8 +118,6 @@ build CMakeFiles/binary_trees.dir/4-binary_tree_is_leaf.c.o: C_COMPILER__binary_
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/5-binary_tree_is_root.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/5-binary_tree_is_root.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/5-binary_tree_is_root.c.o.d
@@ -145,8 +125,6 @@ build CMakeFiles/binary_trees.dir/5-binary_tree_is_root.c.o: C_COMPILER__binary_
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/6-binary_tree_preorder.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/6-binary_tree_preorder.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/6-binary_tree_preorder.c.o.d
@@ -154,8 +132,6 @@ build CMakeFiles/binary_trees.dir/6-binary_tree_preorder.c.o: C_COMPILER__binary
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/7-binary_tree_inorder.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/7-binary_tree_inorder.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/7-binary_tree_inorder.c.o.d
@@ -163,8 +139,6 @@ build CMakeFiles/binary_trees.dir/7-binary_tree_inorder.c.o: C_COMPILER__binary_
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/8-binary_tree_postorder.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/8-binary_tree_postorder.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/8-binary_tree_postorder.c.o.d
@@ -172,8 +146,6 @@ build CMakeFiles/binary_trees.dir/8-binary_tree_postorder.c.o: C_COMPILER__binar
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
 
 build CMakeFiles/binary_trees.dir/9-binary_tree_height.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/9-binary_tree_height.c || cmake_object_order_depends_target_binary_trees
   DEP_FILE = CMakeFiles/binary_trees.dir/9-binary_tree_height.c.o.d
@@ -181,8 +153,13 @@ build CMakeFiles/binary_trees.dir/9-binary_tree_height.c.o: C_COMPILER__binary_t
   INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
-  TARGET_PDB = binary_trees.pdb
+
+build CMakeFiles/binary_trees.dir/0-main.c.o: C_COMPILER__binary_trees_unscanned_Debug /Users/macbookpro/Desktop/ALX-Projects/binary_trees/0-main.c || cmake_object_order_depends_target_binary_trees
+  DEP_FILE = CMakeFiles/binary_trees.dir/0-main.c.o.d
+  FLAGS = -g -std=gnu11 -isysroot "/Applications/Xcode 22.08.19.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk" -fcolor-diagnostics
+  INCLUDES = -I/Users/macbookpro/Desktop/ALX-Projects/binary_trees/.
+  OBJECT_DIR = CMakeFiles/binary_trees.dir
+  OBJECT_FILE_DIR = CMakeFiles/binary_trees.dir
 
 
 # =============================================================================
@@ -192,14 +169,13 @@ build CMakeFiles/binary_trees.dir/9-binary_tree_height.c.o: C_COMPILER__binary_t
 #############################################
 # Link the executable binary_trees
 
-build binary_trees: C_EXECUTABLE_LINKER__binary_trees_Debug CMakeFiles/binary_trees.dir/0-binary_tree_node.c.o CMakeFiles/binary_trees.dir/1-binary_tree_insert_left.c.o CMakeFiles/binary_trees.dir/10-binary_tree_depth.c.o CMakeFiles/binary_trees.dir/11-binary_tree_size.c.o CMakeFiles/binary_trees.dir/13-binary_tree_nodes.c.o CMakeFiles/binary_trees.dir/15-binary_tree_is_full.c.o CMakeFiles/binary_trees.dir/17-binary_tree_sibling.c.o CMakeFiles/binary_trees.dir/2-binary_tree_insert_right.c.o CMakeFiles/binary_trees.dir/3-binary_tree_delete.c.o CMakeFiles/binary_trees.dir/4-binary_tree_is_leaf.c.o CMakeFiles/binary_trees.dir/5-binary_tree_is_root.c.o CMakeFiles/binary_trees.dir/6-binary_tree_preorder.c.o CMakeFiles/binary_trees.dir/7-binary_tree_inorder.c.o CMakeFiles/binary_trees.dir/8-binary_tree_postorder.c.o CMakeFiles/binary_trees.dir/9-binary_tree_height.c.o
+build binary_trees: C_EXECUTABLE_LINKER__binary_trees_Debug CMakeFiles/binary_trees.dir/0-binary_tree_node.c.o CMakeFiles/binary_trees.dir/1-binary_tree_insert_left.c.o CMakeFiles/binary_trees.dir/10-binary_tree_depth.c.o CMakeFiles/binary_trees.dir/11-binary_tree_size.c.o CMakeFiles/binary_trees.dir/13-binary_tree_nodes.c.o CMakeFiles/binary_trees.dir/15-binary_tree_is_full.c.o CMakeFiles/binary_trees.dir/17-binary_tree_sibling.c.o CMakeFiles/binary_trees.dir/2-binary_tree_insert_right.c.o CMakeFiles/binary_trees.dir/3-binary_tree_delete.c.o CMakeFiles/binary_trees.dir/4-binary_tree_is_leaf.c.o CMakeFiles/binary_trees.dir/5-binary_tree_is_root.c.o CMakeFiles/binary_trees.dir/6-binary_tree_preorder.c.o CMakeFiles/binary_trees.dir/7-binary_tree_inorder.c.o CMakeFiles/binary_trees.dir/8-binary_tree_postorder.c.o CMakeFiles/binary_trees.dir/9-binary_tree_height.c.o CMakeFiles/binary_trees.dir/0-main.c.o
   FLAGS = -g -isysroot "/Applications/Xcode 22.08.19.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk"
   OBJECT_DIR = CMakeFiles/binary_trees.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/binary_trees.dir/
   TARGET_FILE = binary_trees
-  TARGET_PDB = binary_trees.pdb
+  TARGET_PDB = binary_trees.dbg
 
 
 #############################################
@@ -244,14 +220,14 @@ build all: phony binary_trees
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCCompilerABI.c /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCompilerIdDetection.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeParseImplicitIncludeInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeParseImplicitLinkInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeParseLibraryArchitecture.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystem.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/ADSP-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Borland-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Cray-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/GHS-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/HP-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/IAR-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Intel-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/LCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/MSVC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/PGI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/PathScale-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/SCO-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/TI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Tasking-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Watcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/XL-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /Users/macbookpro/Desktop/ALX-Projects/binary_trees/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /Users/macbookpro/Desktop/ALX-Projects/binary_trees/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCCompiler.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCCompilerABI.c /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCompilerIdDetection.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeParseImplicitIncludeInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeParseImplicitLinkInfo.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeParseLibraryArchitecture.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystem.cmake.in /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/ADSP-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Borland-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Cray-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/GHS-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/HP-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/IAR-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Intel-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/LCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/MSVC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/PGI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/PathScale-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/SCO-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/TI-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Tasking-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Watcom-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/XL-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /Users/macbookpro/Desktop/ALX-Projects/binary_trees/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake: phony
+build /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Apple-Clang.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/Darwin.cmake /Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.27/Modules/Platform/UnixPaths.cmake /Users/macbookpro/Desktop/ALX-Projects/binary_trees/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake: phony
 
 
 #############################################

@@ -21,4 +21,5 @@ add_executable(binary_trees
         7-binary_tree_inorder.c
         8-binary_tree_postorder.c
         9-binary_tree_height.c
-        binary_tree.h)
+        binary_tree.h
+        0-main.c)
